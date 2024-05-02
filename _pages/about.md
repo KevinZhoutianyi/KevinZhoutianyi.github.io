@@ -19,11 +19,9 @@ I'm a first year PhD student in Computer Science at University of Southern Calif
   Lianke Qin, Saayan Mitra, Zhao Song, Yuanyuan Yang and **Tianyi Zhou**<br>
   IEEE Big Data, 2023.
 - Algorithm and Hardness for Dynamic Attention Maintenance in Large Language Models ([arxiv link](https://arxiv.org/abs/2304.02207)).<br>
-  Jan van den Brand, Zhao Song and **Tianyi Zhou**
-- Faster Algorithm for Structured John Ellipsoid Computation ([arxiv link](https://arxiv.org/abs/2211.14407)).<br>
-  Zhao Song, Xin Yang, Yuanyuan Yang and **Tianyi Zhou**
-- The Closeness of In-Context Learning and Weight Shifting for Softmax Regression ([arxiv link](https://arxiv.org/abs/2304.13276)).<br>
-  Shuai Li, Zhao Song, Yu Xia, Tong Yu, and **Tianyi Zhou**
+  Jan van den Brand, Zhao Song and **Tianyi Zhou**<br>
+  NeurIPS, 2024.
+
 
 ## Machine Learning
 - Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time ([arxiv link](https://arxiv.org/abs/2310.17157)).<br>
