@@ -20,7 +20,7 @@ I'm a first year PhD student in Computer Science at University of Southern Calif
   IEEE Big Data, 2023.
 - Algorithm and Hardness for Dynamic Attention Maintenance in Large Language Models ([arxiv link](https://arxiv.org/abs/2304.02207)).<br>
   Jan van den Brand, Zhao Song and **Tianyi Zhou**<br>
-  NeurIPS, 2024.
+  ICML, 2024.
 
 
 ## Machine Learning
