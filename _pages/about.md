@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year PhD student in Computer Science at University of Southern California (USC). Before that, I received master degree in Computer Science from University of California San Diego. I am broadly interested in natural language processing and theoretical computer science. I am advised by [Prof. Vatsal Sharan](https://vatsalsharan.github.io/).
+I'm a second year PhD student in Computer Science at University of Southern California (USC). Before that, I received master degree in Computer Science from University of California San Diego. I am broadly interested in natural language processing and theoretical computer science. I am co-advised by [Prof. Robin Jia](https://robinjia.github.io/) and [Prof. Vatsal Sharan](https://vatsalsharan.github.io/).
 
 #  Research
 ## Theoretical Computer Science (Author names in alphabetical order)
