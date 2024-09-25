@@ -11,6 +11,24 @@ redirect_from:
 I'm a second year PhD student in Computer Science at University of Southern California (USC). Before that, I received master degree in Computer Science from University of California San Diego. I am broadly interested in natural language processing and theoretical computer science. I am co-advised by [Prof. Robin Jia](https://robinjia.github.io/) and [Prof. Vatsal Sharan](https://vatsalsharan.github.io/).
 
 #  Research
+
+
+
+## Machine Learning
+
+- Pretrained Large Language Models Use Fourier Features to Compute Addition ([arxiv link](https://arxiv.org/pdf/2406.03445)).<br>
+   **Tianyi Zhou**, Deqing Fu, Vatsal Sharan and Robin Jia <br>
+  NeurIPS 2024.
+
+- Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time ([arxiv link](https://arxiv.org/abs/2310.17157)).<br>
+  Zichang Liu, Jue Wang, Tri Dao, **Tianyi Zhou**, Binhang Yuan, Zhao Song, Anshumali Shrivastava, Ce Zhang, Yuandong Tian, Christopher Ré, and Beidi Chen<br>
+  ICML 2023 Selected as Oral.
+
+- H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models ([arxiv link](https://arxiv.org/abs/2306.14048)).<br>
+  Zhenyu Zhang, Ying Sheng, **Tianyi Zhou**, Tianlong Chen, Lianmin Zheng, Ruisi Cai, Zhao Song, Yuandong Tian, Christopher Ré, Clark Barrett, Zhangyang Wang and Beidi Chen <br>
+  NeurIPS 2023.
+
+
 ## Theoretical Computer Science (Author names in alphabetical order)
 - Space-Efficient Interior Point Method, with applications to Linear Programming and Maximum Weight Bipartite Matching ([arxiv link](http://arxiv.org/abs/2009.06106)).<br>
   Sixue Liu, Zhao Song, Hengjie Zhang, Lichen Zhang and **Tianyi Zhou**<br>
@@ -21,17 +39,10 @@ I'm a second year PhD student in Computer Science at University of Southern Cali
 - Algorithm and Hardness for Dynamic Attention Maintenance in Large Language Models ([arxiv link](https://arxiv.org/abs/2304.02207)).<br>
   Jan van den Brand, Zhao Song and **Tianyi Zhou**<br>
   ICML, 2024.
-
-
-## Machine Learning
-- Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time ([arxiv link](https://arxiv.org/abs/2310.17157)).<br>
-  Zichang Liu, Jue Wang, Tri Dao, **Tianyi Zhou**, Binhang Yuan, Zhao Song, Anshumali Shrivastava, Ce Zhang, Yuandong Tian, Christopher Ré, and Beidi Chen<br>
-  ICML 2023 Selected as Oral.
-
-- H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models ([arxiv link](https://arxiv.org/abs/2306.14048)).<br>
-  Zhenyu Zhang, Ying Sheng, **Tianyi Zhou**, Tianlong Chen, Lianmin Zheng, Ruisi Cai, Zhao Song, Yuandong Tian, Christopher Ré, Clark Barrett, Zhangyang Wang and Beidi Chen <br>
-  NeurIPS 2023.
-
+- The Closeness of In-Context Learning and Weight Shifting for Softmax Regression ([arxiv link](https://arxiv.org/pdf/2304.13276)).<br>
+  Shuai Li, Zhao Song, Yu Xia, Tong Yu and **Tianyi Zhou**<br>
+  NeurIPS 2024.
+  
 <!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
