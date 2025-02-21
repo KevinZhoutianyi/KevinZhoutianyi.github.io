@@ -16,6 +16,9 @@ I'm a second year PhD student in Computer Science at University of Southern Cali
 
 ## Machine Learning
 
+- FoNE: Precise Single-Token Number Embeddings via Fourier Features ([arxiv link](https://arxiv.org/pdf/2502.09741))([project website](https://fouriernumber.github.io/)).<br>
+   **Tianyi Zhou**, Deqing Fu, Mahdi Soltanolkotabi, Robin Jia and Vatsal Sharan<br>
+
 - Pretrained Large Language Models Use Fourier Features to Compute Addition ([arxiv link](https://arxiv.org/pdf/2406.03445)).<br>
    **Tianyi Zhou**, Deqing Fu, Vatsal Sharan and Robin Jia <br>
   NeurIPS 2024.
