@@ -34,6 +34,9 @@ I'm a second year PhD student in Computer Science at University of Southern Cali
 
 
 ## Theoretical Computer Science (Author names in alphabetical order)
+- Fourier Circuits in Neural Networks and Transformers: A Case Study of Modular Arithmetic with Multiple Inputs ([arxiv link](https://arxiv.org/pdf/2402.09469)).<br>
+  Chenyang Li, Yingyu Liang, Zhenmei Shi, Zhao Song, and **Tianyi Zhou**<br>
+  AISTAT, 2025.
 - Space-Efficient Interior Point Method, with applications to Linear Programming and Maximum Weight Bipartite Matching ([arxiv link](http://arxiv.org/abs/2009.06106)).<br>
   Sixue Liu, Zhao Song, Hengjie Zhang, Lichen Zhang and **Tianyi Zhou**<br>
   ICALP, 2023.
