@@ -37,15 +37,12 @@ I'm a second year PhD student in Computer Science at University of Southern Cali
 - Fourier Circuits in Neural Networks and Transformers: A Case Study of Modular Arithmetic with Multiple Inputs ([arxiv link](https://arxiv.org/pdf/2402.09469)).<br>
   Chenyang Li, Yingyu Liang, Zhenmei Shi, Zhao Song, and **Tianyi Zhou**<br>
   AISTAT, 2025.
-- Space-Efficient Interior Point Method, with applications to Linear Programming and Maximum Weight Bipartite Matching ([arxiv link](http://arxiv.org/abs/2009.06106)).<br>
-  Sixue Liu, Zhao Song, Hengjie Zhang, Lichen Zhang and **Tianyi Zhou**<br>
-  ICALP, 2023.
 - Algorithm and Hardness for Dynamic Attention Maintenance in Large Language Models ([arxiv link](https://arxiv.org/abs/2304.02207)).<br>
   Jan van den Brand, Zhao Song and **Tianyi Zhou**<br>
   ICML, 2024.
-- Fast Heavy Inner Product Identification Between Weights and Inputs in Neural Network Training ([arxiv link](https://kevinzhoutianyi.github.io/files/qmsyz_bigdata2023.pdf)).<br>
-  Lianke Qin, Saayan Mitra, Zhao Song, Yuanyuan Yang and **Tianyi Zhou**<br>
-  IEEE Big Data, 2023.
+- Space-Efficient Interior Point Method, with applications to Linear Programming and Maximum Weight Bipartite Matching ([arxiv link](http://arxiv.org/abs/2009.06106)).<br>
+  Sixue Liu, Zhao Song, Hengjie Zhang, Lichen Zhang and **Tianyi Zhou**<br>
+  ICALP, 2023.
 - The Closeness of In-Context Learning and Weight Shifting for Softmax Regression ([arxiv link](https://arxiv.org/pdf/2304.13276)).<br>
   Shuai Li, Zhao Song, Yu Xia, Tong Yu and **Tianyi Zhou**<br>
   NeurIPS 2024.
