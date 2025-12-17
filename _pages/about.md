@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year PhD student in Computer Science at University of Southern California (USC). Before that, I received master degree in Computer Science from University of California San Diego. I am broadly interested in natural language processing and theoretical computer science. I am co-advised by [Prof. Robin Jia](https://robinjia.github.io/) and [Prof. Vatsal Sharan](https://vatsalsharan.github.io/).
+I'm a third year PhD student in Computer Science at University of Southern California (USC). Before that, I received master degree in Computer Science from University of California San Diego. I am broadly interested in natural language processing and theoretical computer science. I am co-advised by [Prof. Robin Jia](https://robinjia.github.io/) and [Prof. Vatsal Sharan](https://vatsalsharan.github.io/).
 
 #  Research
 
@@ -34,6 +34,9 @@ I'm a second year PhD student in Computer Science at University of Southern Cali
 
 
 ## Theoretical Computer Science (Author names in alphabetical order)
+- Faster Algorithm for Structured John Ellipsoid Computation ([arxiv link](https://arxiv.org/pdf/2211.14407)).<br>
+  Yang Cao, Xiaoyu Li, Zhao Song, Xin Yang and **Tianyi Zhou**<br>
+  NeurIPS, 2025.
 - Fourier Circuits in Neural Networks and Transformers: A Case Study of Modular Arithmetic with Multiple Inputs ([arxiv link](https://arxiv.org/pdf/2402.09469)).<br>
   Chenyang Li, Yingyu Liang, Zhenmei Shi, Zhao Song, and **Tianyi Zhou**<br>
   AISTAT, 2025.
