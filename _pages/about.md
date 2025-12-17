@@ -24,28 +24,33 @@ I'm a third year PhD student in Computer Science at University of Southern Calif
    **Tianyi Zhou**, Deqing Fu, Vatsal Sharan and Robin Jia <br>
   NeurIPS 2024.
 
+- H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models ([arxiv link](https://arxiv.org/abs/2306.14048)).<br>
+  Zhenyu Zhang, Ying Sheng, **Tianyi Zhou**, Tianlong Chen, Lianmin Zheng, Ruisi Cai, Zhao Song, Yuandong Tian, Christopher Ré, Clark Barrett, Zhangyang Wang and Beidi Chen <br>
+  NeurIPS 2023.
+  
 - Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time ([arxiv link](https://arxiv.org/abs/2310.17157)).<br>
   Zichang Liu, Jue Wang, Tri Dao, **Tianyi Zhou**, Binhang Yuan, Zhao Song, Anshumali Shrivastava, Ce Zhang, Yuandong Tian, Christopher Ré, and Beidi Chen<br>
   ICML 2023 Selected as Oral.
 
-- H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models ([arxiv link](https://arxiv.org/abs/2306.14048)).<br>
-  Zhenyu Zhang, Ying Sheng, **Tianyi Zhou**, Tianlong Chen, Lianmin Zheng, Ruisi Cai, Zhao Song, Yuandong Tian, Christopher Ré, Clark Barrett, Zhangyang Wang and Beidi Chen <br>
-  NeurIPS 2023.
 
 
 ## Theoretical Computer Science (Author names in alphabetical order)
 - Faster Algorithm for Structured John Ellipsoid Computation ([arxiv link](https://arxiv.org/pdf/2211.14407)).<br>
   Yang Cao, Xiaoyu Li, Zhao Song, Xin Yang and **Tianyi Zhou**<br>
   NeurIPS, 2025.
+  
 - Fourier Circuits in Neural Networks and Transformers: A Case Study of Modular Arithmetic with Multiple Inputs ([arxiv link](https://arxiv.org/pdf/2402.09469)).<br>
   Chenyang Li, Yingyu Liang, Zhenmei Shi, Zhao Song, and **Tianyi Zhou**<br>
   AISTAT, 2025.
+  
 - Algorithm and Hardness for Dynamic Attention Maintenance in Large Language Models ([arxiv link](https://arxiv.org/abs/2304.02207)).<br>
   Jan van den Brand, Zhao Song and **Tianyi Zhou**<br>
   ICML, 2024.
+  
 - Space-Efficient Interior Point Method, with applications to Linear Programming and Maximum Weight Bipartite Matching ([arxiv link](http://arxiv.org/abs/2009.06106)).<br>
   Sixue Liu, Zhao Song, Hengjie Zhang, Lichen Zhang and **Tianyi Zhou**<br>
   ICALP, 2023.
+  
 - The Closeness of In-Context Learning and Weight Shifting for Softmax Regression ([arxiv link](https://arxiv.org/pdf/2304.13276)).<br>
   Shuai Li, Zhao Song, Yu Xia, Tong Yu and **Tianyi Zhou**<br>
   NeurIPS 2024.
