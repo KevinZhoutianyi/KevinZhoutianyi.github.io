@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year PhD student in Computer Science at University of Southern California (USC). Before that, I received master degree in Computer Science from University of California San Diego. I am broadly interested in natural language processing and theoretical computer science. I am co-advised by [Prof. Robin Jia](https://robinjia.github.io/) and [Prof. Vatsal Sharan](https://vatsalsharan.github.io/).
+I am a third-year Ph.D. student in Computer Science at the University of Southern California, by co-advised by [Prof. Robin Jia](https://robinjia.github.io/) and [Prof. Vatsal Sharan](https://vatsalsharan.github.io/). I received my M.S. in Computer Science from the University of California, San Diego.
+
+My research focuses on interpretability and efficiency in large language models. I study how internal mechanisms and learned representations give rise to reasoning and numerical capabilities, and leverage these insights to improve learning dynamics, computational efficiency, and generalization through better model architectures and training objectives.
 
 #  Research
 
